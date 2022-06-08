@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HfSmP+WHTIXLCbqI/jxghcGkWCFZG/pxJtyE8lFwPFW5+qEjLKgLy4TLzf2jwqv6+I684rcapnlQLcBfJf3xsg==",
+  "success": true,
+  "projectFilePath": "/home/tavio/Projetos/F# from the ground up/helloworld/helloworld.fsproj",
+  "expectedPackageFiles": [
+    "/home/tavio/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512",
+    "/home/tavio/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
